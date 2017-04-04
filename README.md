@@ -5,6 +5,12 @@ I use a german Windows Keyboard Layout mapped to Mac. Working under macOS Sierra
 ![](https://clouless.github.io/macos-keyboard-remapping/keyboard-layout-map.png)
 
 
+:bangbang: What is not working globally so far:
+
+ * Jump Words with left-ctrl→ and left-ctrl←
+   * works only with ⌥→ and ⌥←
+
+
 &nbsp;
 
 -----
