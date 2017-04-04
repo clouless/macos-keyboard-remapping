@@ -46,17 +46,18 @@ I had to modify the XML further for:
   <keyMapSet id="ANSI">
     <keyMap index="0">
       ...
-      <key code="10" output="&#x3c;"/>
+      <key code="10" output="&#x003C;"/>
       ...
     </keyMap>
     <keyMap index="1">
       ...
-      <key code="10" output="&#x3e;"/>
+      <key code="10" output="&#x003E;"/>
       ...
     </keyMap>
     <keyMap index="2">
       ...
-      <key code="10" output="&#x7c;"/>
+      <key code="10" output="&#x007C;"/>
+      # NOTE: Hex must have 4 Chars preceded by zeros if too short!
 ```
 
 Final file :sparkles: **[clouless-macOS-Sierra-German-Windows.keylayout](./clouless-macOS-Sierra-German-Windows.keylayout)**
