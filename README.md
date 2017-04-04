@@ -105,3 +105,12 @@ But since I don't write code in Word, it is fine.
 ## IntelliJ IDEA, Atom.io and iTerm2
 
 
+
+-----
+
+&nbsp;
+
+### License
+
+[MIT](./LICENSE) © [Bernhard Grünewaldt](https://github.com/clouless)
+  
