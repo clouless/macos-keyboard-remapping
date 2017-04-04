@@ -7,4 +7,4 @@ Until macOS Sierra I did this via Karabiner, but since Karabiner is broken in ma
 
 ## Keyboard Layout
 
-![](https://clouless.github.io/macos-keyboard-remapping/docs/keyboard-layout-map.png)
+![](https://clouless.github.io/macos-keyboard-remapping/keyboard-layout-map.png)
