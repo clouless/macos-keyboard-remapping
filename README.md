@@ -32,8 +32,34 @@ We remap these two keys with [Karabiner Elements](https://github.com/tekezo/Kara
 
 I created a custom Keyboard Profile with [Ukulele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele)
 
+**NORMAL**
 
+
+![](https://clouless.github.io/macos-keyboard-remapping/ukulele-normal.png)
+
+**SHIFT**
+
+![](https://clouless.github.io/macos-keyboard-remapping/ukulele-shift.png)
+
+**ALT**
+
+![](https://clouless.github.io/macos-keyboard-remapping/ukulele-alt.png)
+
+&nbsp;
 
 I had to modify the XML further for:
 
-  * Key `10` which has `>`, `<` and `|` mapped
+**Key `10`** which has `>`, `<` and `|` mapped
+
+```
+	<keyMapSet id="ANSI">
+		<keyMap index="0">
+   ...
+			<key code="10" output="<"/>
+   ...
+		</keyMap>
+		<keyMap index="1">
+  ...
+			<key code="10" output=">"/>
+  ...
+```
