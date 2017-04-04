@@ -98,6 +98,9 @@ But since I don't write code in Word, it is fine.
 
 Work out of the box
 
+-----
+
+&nbsp;
 
 ## iTerm2
 
