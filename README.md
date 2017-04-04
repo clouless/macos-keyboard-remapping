@@ -55,12 +55,12 @@ I had to modify the XML further for:
   <keyMapSet id="ANSI">
     <keyMap index="0">
       ...
-      <key code="10" output="<"/>
+      <key code="10" output="&#x3c;"/>
       ...
     </keyMap>
     <keyMap index="1">
       ...
-      <key code="10" output=">"/>
+      <key code="10" output="&#x3e;"/>
       ...
     </keyMap>
     <keyMap index="2">
