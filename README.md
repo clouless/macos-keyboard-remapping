@@ -100,7 +100,16 @@ But since I don't write code in Word, it is fine.
 
 ----
 
-## IntelliJ IDEA and Atom.io
+## IntelliJ IDEA
+
+'Preferences' → 'Keymap' Search for:
+
+ * 'Move Caret to Next Word' and add Shortcut `left-ctrl→` 
+ * 'Move Caret to Previous Word' and add Shortcut `left-ctrl←` 
+
+
+
+## Atom.io
 
 Work out of the box
 
