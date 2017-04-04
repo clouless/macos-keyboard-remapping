@@ -1,15 +1,6 @@
 # macos-keyboard-remapping
 
-I use a german Windows Keyboard Layout mapped to Mac.
-
-Until macOS Sierra I did this via Karabiner, but since Karabiner is broken in macOS Sierra, I have some workarounds now.
-
-&nbsp;
-
------
-
-
-## Keyboard Layout
+I use a german Windows Keyboard Layout mapped to Mac. Working under macOS Sierra.
 
 ![](https://clouless.github.io/macos-keyboard-remapping/keyboard-layout-map.png)
 
