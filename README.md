@@ -94,7 +94,21 @@ But since I don't write code in Word, it is fine.
 
 ----
 
-## IntelliJ IDEA, Atom.io and iTerm2
+## IntelliJ IDEA and Atom.io
+
+Work out of the box
+
+
+## iTerm2
+
+
+Under 'Profiles' → 'Keys' do:
+
+| key combo | hex | remapped to | 
+|------------|------------|--------|
+| ⌘+c        | 0x03       | ctrl+c |
+
+This allows ctrl+c in terminal
 
 
 
