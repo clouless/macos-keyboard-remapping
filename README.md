@@ -24,7 +24,7 @@ We remap these two keys with [Karabiner Elements](https://github.com/tekezo/Kara
 
 ![](https://clouless.github.io/macos-keyboard-remapping/karabiner-elements-remap.png)
 
-&nsbp;
+&nbsp;
 
 -----
 
@@ -52,14 +52,18 @@ I had to modify the XML further for:
 **Key `10`** which has `>`, `<` and `|` mapped
 
 ```
-	<keyMapSet id="ANSI">
-		<keyMap index="0">
-   ...
-			<key code="10" output="<"/>
-   ...
-		</keyMap>
-		<keyMap index="1">
-  ...
-			<key code="10" output=">"/>
-  ...
+  <keyMapSet id="ANSI">
+    <keyMap index="0">
+      ...
+      <key code="10" output="<"/>
+      ...
+    </keyMap>
+    <keyMap index="1">
+      ...
+      <key code="10" output=">"/>
+      ...
+    </keyMap>
+    <keyMap index="2">
+      ...
+      <key code="10" output="&#x7c;"/>
 ```
