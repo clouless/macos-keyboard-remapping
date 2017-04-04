@@ -106,7 +106,8 @@ But since I don't write code in Word, it is fine.
 
  * 'Move Caret to Next Word' and add Shortcut `left-ctrl→` 
  * 'Move Caret to Previous Word' and add Shortcut `left-ctrl←` 
-
+ * 'Move Caret to Next Word with Selection' and add Shortcut `left-ctrl⇧→` 
+ * 'Move Caret to Previous Word with Selection' and add Shortcut `left-ctrl⇧←` 
 
 
 ## Atom.io
