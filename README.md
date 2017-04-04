@@ -67,3 +67,41 @@ I had to modify the XML further for:
       ...
       <key code="10" output="&#x7c;"/>
 ```
+
+Final file :sparkles: **[clouless-macOS-Sierra-German-Windows.keylayout](./clouless-macOS-Sierra-German-Windows.keylayout)**
+
+
+&nbsp;
+
+-----
+
+## Install Keyboard Layout in macOS Sierra
+
+```
+sudo cp clouless-macOS-Sierra-German-Windows.keylayout /Library/Keyboard\ Layouts/
+``` 
+
+Then Activate it in System Settings Keyboard:
+
+![](https://clouless.github.io/macos-keyboard-remapping/activate-layout-01.png)
+
+![](https://clouless.github.io/macos-keyboard-remapping/activate-layout-02.png)
+
+
+&nbsp;
+
+----
+
+## Office Mac e.g. Word
+
+Word has some strange auto-language feature switching back to standard german.
+But since I don't write code in Word, it is fine.
+
+
+&nbsp;
+
+----
+
+## IntelliJ IDEA, Atom.io and iTerm2
+
+
