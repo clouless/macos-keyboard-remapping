@@ -81,7 +81,7 @@ Put this into your ` keymap.cson`
   'cmd-shift-left': 'editor:select-to-previous-subword-boundary'
 ```
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/atom-settings.png" width="80%"></p>
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/atom-settings.png?v2" width="80%"></p>
 
 
 &nbsp;
