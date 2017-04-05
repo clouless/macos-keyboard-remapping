@@ -3,7 +3,7 @@
 
 > I use a german Windows Keyboard Layout mapped to Mac. Working under macOS Sierra.
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/language-preview.png?v2" width="60%"></p>
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/language-preview.png?v2" width="80%"></p>
 
 
 &nbsp;
