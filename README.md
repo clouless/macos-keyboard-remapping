@@ -5,6 +5,7 @@ I use a german Windows Keyboard Layout mapped to Mac. Working under macOS Sierra
 ![](https://clouless.github.io/macos-keyboard-remapping/keyboard-layout-map.png)
 
 
+
 :bangbang: What is not working globally so far:
 
  * Jump Words with left-ctrl→ and left-ctrl←
@@ -66,7 +67,6 @@ I had to modify the XML further for:
       # NOTE: Hex must have 4 Chars preceded by zeros if too short!
 ```
 
-Final file :sparkles: **[clouless-macOS-Sierra-German-Windows.keylayout](./clouless-macOS-Sierra-German-Windows.keylayout)**
 
 
 &nbsp;
@@ -75,9 +75,12 @@ Final file :sparkles: **[clouless-macOS-Sierra-German-Windows.keylayout](./cloul
 
 ## Install Keyboard Layout in macOS Sierra
 
+Installation
+
 ```
-sudo cp clouless-macOS-Sierra-German-Windows.keylayout /Library/Keyboard\ Layouts/
-``` 
+cp -r clouless-german-keyboard-bundle.bundle /Library/Keyboard\ Layouts/
+```
+
 
 Then Activate it in System Settings Keyboard:
 
@@ -138,11 +141,13 @@ This allows ctrl+c in terminal
 
 
 
-## Appendix
+## Creating the Keyboard Bundle
 
-'New Layout Collection'
+In Ukelele do 'New Layout Collection':
 
+![](https://clouless.github.io/macos-keyboard-remapping/keyboard-bundle-01.png)
 
+![](https://clouless.github.io/macos-keyboard-remapping/keyboard-bundle-02.png)
 
 -----
 
