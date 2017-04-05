@@ -26,12 +26,13 @@ We basically remap (Karabiner Elements changes already in place!)
 
  * [macOS Special Chars German](https://www.die-tastenkombination.de/tastenkombinationen-mac-os-sonderzeichen.html)
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/keyboard-maestro-remap.png" width="80%"></p>
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/keyboard-maestro-remap.png?v2" width="80%"></p>
 
 It is then exported as Macro Library.
 You can import the Macro Library:
 
-  * :sparkles: **[clouless-german-keyboard-remap-macros.kmlibrary](x)**
+  * :sparkles: **[clouless-german-keyboard-remap-macros.kmlibrary](https://raw.githubusercontent.com/clouless/macos-keyboard-remapping/master/clouless-german-keyboard-remap-macros.kmlibrary)**
+
 -----
 
 &nbsp;
