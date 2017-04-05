@@ -71,7 +71,18 @@ But since I don't write code in Word, it is fine.
 
 **Atom.io**
 
-:bangbang: Jump words not working!
+Put this into your ` keymap.cson`
+
+```
+'atom-text-editor':
+  'cmd-right': 'editor:move-to-next-subword-boundary'
+  'cmd-left': 'editor:move-to-previous-subword-boundary'
+  'cmd-shift-right': 'editor:select-to-next-subword-boundary'
+  'cmd-shift-left': 'editor:select-to-previous-subword-boundary'
+```
+
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/atom-settings.png" width="80%"></p>
+
 
 &nbsp;
 
