@@ -132,6 +132,9 @@ Under 'Profiles' → 'Keys' do:
 This allows ctrl+c in terminal
 
 
+## Chrome
+
+:bangbang: Home and End not working
 
 -----
 
