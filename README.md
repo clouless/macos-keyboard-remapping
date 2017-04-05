@@ -75,14 +75,18 @@ I had to modify the XML further for:
 
 ## Install Keyboard Layout in macOS Sierra
 
-Installation
+
+**(1)** Download clouless-german-keyboard-bundle-v11.bundle.zip and extract
+
+
+**C2)** Copy to `/Library/Keyboard Layouts/``
 
 ```
+sudo su
 cp -r clouless-german-keyboard-bundle.bundle /Library/Keyboard\ Layouts/
 ```
 
-
-Then Activate it in System Settings Keyboard:
+**(3)** Activate it in System Settings Keyboard:
 
 ![](https://clouless.github.io/macos-keyboard-remapping/activate-layout-01.png)
 
@@ -107,10 +111,10 @@ But since I don't write code in Word, it is fine.
 
 'Preferences' → 'Keymap' Search for:
 
- * 'Move Caret to Next Word' and add Shortcut `left-ctrl→` 
- * 'Move Caret to Previous Word' and add Shortcut `left-ctrl←` 
- * 'Move Caret to Next Word with Selection' and add Shortcut `left-ctrl⇧→` 
- * 'Move Caret to Previous Word with Selection' and add Shortcut `left-ctrl⇧←` 
+ * 'Move Caret to Next Word' and add Shortcut `left-ctrl→`
+ * 'Move Caret to Previous Word' and add Shortcut `left-ctrl←`
+ * 'Move Caret to Next Word with Selection' and add Shortcut `left-ctrl⇧→`
+ * 'Move Caret to Previous Word with Selection' and add Shortcut `left-ctrl⇧←`
 
 ![](https://clouless.github.io/macos-keyboard-remapping/intellij-next-word.png)
 
@@ -128,11 +132,11 @@ Work out of the box
 
 Under 'Profiles' → 'Keys' do:
 
-| key combo | hex | remapped to | 
+| key combo | hex | remapped to |
 |------------|------------|--------|
 | ⌘+c        | 0x03       | ctrl+c |
+| ⌘+d        | 0x04       | ctrl+d |
 
-This allows ctrl+c in terminal
 
 
 ## Chrome
@@ -156,4 +160,3 @@ In Ukelele do 'New Layout Collection':
 ### License
 
 [MIT](./LICENSE) © [Bernhard Grünewaldt](https://github.com/clouless)
-  
