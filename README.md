@@ -90,7 +90,7 @@ cp -r clouless-german-keyboard-bundle.bundle /Library/Keyboard\ Layouts/
 
 ![](https://clouless.github.io/macos-keyboard-remapping/activate-layout-01.png)
 
-![](https://clouless.github.io/macos-keyboard-remapping/activate-layout-02.png?v2)
+![](https://clouless.github.io/macos-keyboard-remapping/activate-layout-02.png?v3)
 
 
 &nbsp;
