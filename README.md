@@ -5,24 +5,11 @@ I use a german Windows Keyboard Layout mapped to Mac. Working under macOS Sierra
 ![](https://clouless.github.io/macos-keyboard-remapping/keyboard-layout-map.png)
 
 
-
-:bangbang: What is not working globally so far:
-
- * Jump Words with left-ctrl→ and left-ctrl←
-   * works only with ⌥→ and ⌥←
-
-
 &nbsp;
 
 -----
 
-
-
-&nbsp;
-
------
-
-### Install
+### Installation
 
 **Install Keyboard Layout in macOS Sierra**
 
@@ -39,9 +26,10 @@ cp -r clouless-german-keyboard-bundle.bundle /Library/Keyboard\ Layouts/
 
 **(3)** Activate it in System Settings Keyboard:
 
-![](https://clouless.github.io/macos-keyboard-remapping/activate-layout-01.png)
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/activate-layout-01.png" width="80%"></p>
 
-![](https://clouless.github.io/macos-keyboard-remapping/activate-layout-02.png?v3)
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/activate-layout-02.png?v3" width="80%"></p>
+
 
 &nbsp;
 
@@ -103,6 +91,14 @@ Under 'Profiles' → 'Keys' add some key-combo 'send hex' remappings:
 :bangbang: Home and End not working
 :bangbang: Jump words not working!
 
+&nbsp;
+
+**GLOBALLY**
+
+:bangbang: What is not working globally so far:
+
+ * Jump Words with left-ctrl→ and left-ctrl←
+   * works only with ⌥→ and ⌥←
 
 -----
 
