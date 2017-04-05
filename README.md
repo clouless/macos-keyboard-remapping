@@ -1,11 +1,12 @@
-![](https://clouless.github.io/macos-keyboard-remapping/keyboard-layout-map.png)
+![](https://clouless.github.io/macos-keyboard-remapping/v1/keyboard-layout-map.png)
 
 
 > I use a german Windows Keyboard Layout mapped to Mac. Working under macOS Sierra.
 
 :bangbang: this is just a workaround until Karabiner is fully macOS Sierra compatible :bangbang:
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/language-preview.png?v2" width="80%"></p>
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v1/language-preview.png?v2" width="80%"></p>
+
 
 
 &nbsp;
@@ -29,9 +30,9 @@ cp -r clouless-german-keyboard-bundle.bundle /Library/Keyboard\ Layouts/
 
 **(3)** Activate it in System Settings Keyboard:
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/activate-layout-01.png" width="80%"></p>
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v1/activate-layout-01.png" width="80%"></p>
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/activate-layout-02.png?v3" width="80%"></p>
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v1/activate-layout-02.png?v3" width="80%"></p>
 
 
 &nbsp;
@@ -40,7 +41,7 @@ cp -r clouless-german-keyboard-bundle.bundle /Library/Keyboard\ Layouts/
 
 We remap these two keys with [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) under macOS Sierra.
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/karabiner-elements-remap.png" width="80%"></p>
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v1/karabiner-elements-remap.png" width="80%"></p>
 
 &nbsp;
 
@@ -67,7 +68,7 @@ But since I don't write code in Word, it is fine.
  * 'Move Caret to Next Word with Selection' and add Shortcut `left-ctrl⇧→`
  * 'Move Caret to Previous Word with Selection' and add Shortcut `left-ctrl⇧←`
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/intellij-next-word.png" width="80%"></p>
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v1/intellij-next-word.png" width="80%"></p>
 
 &nbsp;
 
