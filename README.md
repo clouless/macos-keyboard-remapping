@@ -76,10 +76,10 @@ I had to modify the XML further for:
 ## Install Keyboard Layout in macOS Sierra
 
 
-**(1)** Download clouless-german-keyboard-bundle-v11.bundle.zip and extract
+**(1)** Download **[clouless-german-keyboard-bundle-v11.bundle.zip](https://github.com/clouless/macos-keyboard-remapping/blob/master/clouless-german-keyboard-bundle-v11.bundle.zip?raw=true)** and extract
 
 
-**C2)** Copy to `/Library/Keyboard Layouts/``
+**(2)** Copy to `/Library/Keyboard Layouts/`
 
 ```
 sudo su
@@ -90,7 +90,7 @@ cp -r clouless-german-keyboard-bundle.bundle /Library/Keyboard\ Layouts/
 
 ![](https://clouless.github.io/macos-keyboard-remapping/activate-layout-01.png)
 
-![](https://clouless.github.io/macos-keyboard-remapping/activate-layout-02.png)
+![](https://clouless.github.io/macos-keyboard-remapping/activate-layout-02.png?v2)
 
 
 &nbsp;
