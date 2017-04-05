@@ -149,6 +149,11 @@ Under 'Profiles' → 'Keys' do:
 
 In Ukelele do 'New Layout Collection':
 
+ * Add `clouless-german-keyboard-layout.keylayout`
+ * Add Icon icns
+ * Set languages and locale to german
+ * Save as `clouless-german-keyboard-bundle-v11.bundle`
+
 ![](https://clouless.github.io/macos-keyboard-remapping/keyboard-bundle-01.png)
 
 ![](https://clouless.github.io/macos-keyboard-remapping/keyboard-bundle-02.png)
