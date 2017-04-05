@@ -28,6 +28,108 @@
 					<array>
 						<dict>
 							<key>KeyCode</key>
+							<integer>25</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>2048</integer>
+							<key>ReleaseAll</key>
+							<false/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>513078115.79607099</real>
+					<key>ModificationDate</key>
+					<real>513078440.70297402</real>
+					<key>Name</key>
+					<string>brackets: left-cmd+0 }</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>29</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>2048</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>3625CD06-424B-480C-A062-20931019C983</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
+							<integer>28</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>2048</integer>
+							<key>ReleaseAll</key>
+							<false/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>513078048.250512</real>
+					<key>ModificationDate</key>
+					<real>513078094.09009898</real>
+					<key>Name</key>
+					<string>brackets: left-cmd+7 {</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>26</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>2048</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>1EE1A225-2AA0-4BF9-BCE7-3E042C4CF309</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
 							<integer>23</integer>
 							<key>MacroActionType</key>
 							<string>SimulateKeystroke</string>
@@ -40,9 +142,9 @@
 					<key>CreationDate</key>
 					<real>513076916.03469199</real>
 					<key>ModificationDate</key>
-					<real>513077012.29887003</real>
+					<real>513078070.91873503</real>
 					<key>Name</key>
-					<string>brackets: cmd+8 [</string>
+					<string>brackets: left-cmd+8 [</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -91,9 +193,9 @@
 					<key>CreationDate</key>
 					<real>513077520.858989</real>
 					<key>ModificationDate</key>
-					<real>513077669.51045901</real>
+					<real>513078068.062747</real>
 					<key>Name</key>
-					<string>brackets: cmd+9 ]</string>
+					<string>brackets: left-cmd+9 ]</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -142,9 +244,9 @@
 					<key>CreationDate</key>
 					<real>513075383.37253797</real>
 					<key>ModificationDate</key>
-					<real>513076893.41760999</real>
+					<real>513078465.440718</real>
 					<key>Name</key>
-					<string>left-ctrl+arrow: jump word to left</string>
+					<string>cursor-move: left-ctrl+arrow: jump word to left</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -193,9 +295,9 @@
 					<key>CreationDate</key>
 					<real>513075017.802903</real>
 					<key>ModificationDate</key>
-					<real>513076890.16198403</real>
+					<real>513078473.401568</real>
 					<key>Name</key>
-					<string>left-ctrl+arrow: jump word to right</string>
+					<string>cursor-move: left-ctrl+arrow: jump word to right</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -244,9 +346,9 @@
 					<key>CreationDate</key>
 					<real>513075452.65061098</real>
 					<key>ModificationDate</key>
-					<real>513076882.665416</real>
+					<real>513078481.77729601</real>
 					<key>Name</key>
-					<string>left-ctrl+arrow: select text until next word</string>
+					<string>cursor-move: left-ctrl+arrow: select text until next word</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -295,9 +397,9 @@
 					<key>CreationDate</key>
 					<real>513075550.48074102</real>
 					<key>ModificationDate</key>
-					<real>513076896.72104299</real>
+					<real>513078486.28152698</real>
 					<key>Name</key>
-					<string>left-ctrl+arrow: select text until previous word</string>
+					<string>cursor-move: left-ctrl+arrow: select text until previous word</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -334,6 +436,108 @@
 					<array>
 						<dict>
 							<key>KeyCode</key>
+							<integer>45</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>2048</integer>
+							<key>ReleaseAll</key>
+							<false/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>513078504.60849899</real>
+					<key>ModificationDate</key>
+					<real>513078536.04401398</real>
+					<key>Name</key>
+					<string>sonderzeichen: right-cmd++ ~</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>30</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>2048</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>FAC762A2-43C0-440B-875D-6ACD4B226FC0</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
+							<integer>26</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>2048</integer>
+							<key>ReleaseAll</key>
+							<false/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>513078582.50437802</real>
+					<key>ModificationDate</key>
+					<real>513078988.632891</real>
+					<key>Name</key>
+					<string>sonderzeichen: right-cmd+&lt; |</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>50</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>2048</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>82670956-A39F-425F-A6BF-9BB72A182CD0</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
 							<integer>14</integer>
 							<key>MacroActionType</key>
 							<string>SimulateKeystroke</string>
@@ -346,9 +550,9 @@
 					<key>CreationDate</key>
 					<real>513076733.74930698</real>
 					<key>ModificationDate</key>
-					<real>513076850.55945402</real>
+					<real>513078334.293028</real>
 					<key>Name</key>
-					<string>right-cmd+e €</string>
+					<string>sonderzeichen: right-cmd+e €</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -397,9 +601,9 @@
 					<key>CreationDate</key>
 					<real>513076428.78314</real>
 					<key>ModificationDate</key>
-					<real>513076686.84451097</real>
+					<real>513078343.08583599</real>
 					<key>Name</key>
-					<string>right-cmd+q @</string>
+					<string>sonderzeichen: right-cmd+q @</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -424,8 +628,59 @@
 			<key>UID</key>
 			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
 		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
+							<integer>26</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>2560</integer>
+							<key>ReleaseAll</key>
+							<false/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>513078355.53430003</real>
+					<key>ModificationDate</key>
+					<real>513078399.77628303</real>
+					<key>Name</key>
+					<string>sonderzeichen: right-cmd+ß \</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>27</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>2048</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>5EA12418-DB1D-4297-853C-DBD527C4BE4F</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
 	</array>
 	<key>UID</key>
-	<string>AD8348FB-86A1-4A17-92A3-A261D6DE522C</string>
+	<string>F3353A5E-25C7-4D33-8A38-32BB35DAEA3B</string>
 </dict>
 </plist>
