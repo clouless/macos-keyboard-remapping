@@ -3,6 +3,8 @@
 
 > I use a german Windows Keyboard Layout mapped to Mac. Working under macOS Sierra.
 
+:bangbang: this is just a workaround until Karabiner is fully macOS Sierra compatible :bangbang:
+
 <p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/language-preview.png?v2" width="80%"></p>
 
 
@@ -83,6 +85,7 @@ Put this into your ` keymap.cson`
 
 <p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/atom-settings.png?v2" width="80%"></p>
 
+:bangbang: left-ctrl+c not working in built in terminal. Must use right-ctrl+c, since remapping not possible.
 
 &nbsp;
 
