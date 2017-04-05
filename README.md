@@ -15,10 +15,14 @@
 
 **Remap Left-Control and Right-Cmd with Karabiner Elements**
 
-We remap these two keys with [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) under macOS Sierra.
+We remap these two with [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) under macOS Sierra.
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-elements-remap.png" width="80%"></p>
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-elements-remap.png?v2" width="80%"></p>
 
+ * Remap left-ctrl to left-cmd
+ * Remap right-cmd to right-alt
+ * Remap `<` to `^`
+ * Remap `^` to `<`
 
 **Remap Keys in Keyboard Maestro**
 
