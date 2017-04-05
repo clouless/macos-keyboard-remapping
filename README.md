@@ -15,7 +15,7 @@
 
 **Remap Left-Control and Right-Cmd with Karabiner Elements**
 
-We remap these two with [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) under macOS Sierra.
+We remap these keys with [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) under macOS Sierra.
 
 <p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-elements-remap.png?v2" width="80%"></p>
 
@@ -26,7 +26,9 @@ We remap these two with [Karabiner Elements](https://github.com/tekezo/Karabiner
 
 **Remap Keys in Keyboard Maestro**
 
-We basically remap (Karabiner Elements changes already in place!)
+We basically remap the following with [Keyboard Maestro](https://www.keyboardmaestro.com/main/).
+
+:bangbang: Karabiner Elements remap already in place!
 
 <p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/keyboard-maestro-remap.png?v2" width="80%"></p>
 
