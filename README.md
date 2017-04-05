@@ -1,13 +1,11 @@
-![](https://clouless.github.io/macos-keyboard-remapping/v1/keyboard-layout-map.png)
+![](https://clouless.github.io/macos-keyboard-remapping/v2/keyboard-layout-map.png)
 
 
 > I use a german Windows Keyboard Layout mapped to Mac. Working under macOS Sierra.
 
-:bangbang: this is just a workaround until Karabiner is fully macOS Sierra compatible :bangbang:
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v1/language-preview.png?v2" width="80%"></p>
-
-
+ * :monkey: **v2** with [Keyboard Maestro](https://www.keyboardmaestro.com/main/) and [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
+ * :monkey: [v1 with custom Input Source](https://github.com/clouless/macos-keyboard-remapping/tree/v1-with-custom-input-source)
 
 &nbsp;
 
@@ -15,114 +13,18 @@
 
 ### Installation
 
-**Install Keyboard Layout in macOS Sierra**
-
-
-**(1)** Download **[clouless-german-keyboard-bundle-v11.bundle.zip](https://github.com/clouless/macos-keyboard-remapping/blob/master/clouless-german-keyboard-bundle-v11.bundle.zip?raw=true)** and extract
-
-
-**(2)** Copy to `/Library/Keyboard Layouts/`
-
-```
-sudo su
-cp -r clouless-german-keyboard-bundle.bundle /Library/Keyboard\ Layouts/
-```
-
-**(3)** Activate it in System Settings Keyboard:
-
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v1/activate-layout-01.png" width="80%"></p>
-
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v1/activate-layout-02.png?v3" width="80%"></p>
-
-
-&nbsp;
-
 **Remap Left-Control and Right-Cmd with Karabiner Elements**
 
 We remap these two keys with [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) under macOS Sierra.
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v1/karabiner-elements-remap.png" width="80%"></p>
-
-&nbsp;
-
------
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-elements-remap.png" width="80%"></p>
 
 
-### Adjust Applications
+**Remap Keys in Keyboard Maestro**
+
+We basically remap (Karabiner Elements changes already in place!)
 
 
-**Microsoft Office Mac**
-
-Word has some strange auto-language feature switching back to standard german.
-But since I don't write code in Word, it is fine.
-
-
-&nbsp;
-
-**IntelliJ IDEA**
-
-'Preferences' → 'Keymap' Search for:
-
- * 'Move Caret to Next Word' and add Shortcut `left-ctrl→`
- * 'Move Caret to Previous Word' and add Shortcut `left-ctrl←`
- * 'Move Caret to Next Word with Selection' and add Shortcut `left-ctrl⇧→`
- * 'Move Caret to Previous Word with Selection' and add Shortcut `left-ctrl⇧←`
-
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v1/intellij-next-word.png" width="80%"></p>
-
-&nbsp;
-
-**Atom.io**
-
-Put this into your ` keymap.cson`
-
-```
-'atom-text-editor':
-  'cmd-right': 'editor:move-to-next-subword-boundary'
-  'cmd-left': 'editor:move-to-previous-subword-boundary'
-  'cmd-shift-right': 'editor:select-to-next-subword-boundary'
-  'cmd-shift-left': 'editor:select-to-previous-subword-boundary'
-```
-
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/atom-settings.png?v2" width="80%"></p>
-
-:bangbang: left-ctrl+c not working in built in terminal. Must use right-ctrl+c, since remapping not possible.
-
-&nbsp;
-
-**iTerm2**
-
-Under 'Profiles' → 'Keys' add some key-combo 'send hex' remappings:
-
-| key combo | send hex | remapped to |
-|------------|------------|--------|
-| ⌘+c        | 0x03       | ctrl+c |
-| ⌘+d        | 0x04       | ctrl+d |
-
-
-&nbsp;
-
-**Chrome**
-
-:bangbang: Home and End not working
-:bangbang: Jump words not working!
-
-&nbsp;
-
-**GLOBALLY**
-
-:bangbang: What is not working globally so far:
-
- * Jump Words with left-ctrl→ and left-ctrl←
-   * works only with ⌥→ and ⌥←
-
------
-
-&nbsp;
-
-### Technical Documentation
-
-See [Howto create the custom Keyboard Layout Bundle](./TECHDOC.md)
 
 -----
 
