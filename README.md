@@ -136,6 +136,14 @@ This allows ctrl+c in terminal
 
 :bangbang: Home and End not working
 
+
+
+## Appendix
+
+'New Layout Collection'
+
+
+
 -----
 
 &nbsp;
