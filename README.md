@@ -40,6 +40,18 @@ You can import the Macro Library:
 
 *Notes: [macOS Special Chars German](https://www.die-tastenkombination.de/tastenkombinationen-mac-os-sonderzeichen.html)*
 
+&nbsp;
+
+**iTerm2**
+
+Under 'Profiles' → 'Keys' add some key-combo 'send hex' remappings
+to enable ctrl+d and ctrl+c.
+
+| key combo | send hex | remapped to |
+|------------|------------|--------|
+| ⌘+c        | 0x03       | ctrl+c |
+| ⌘+d        | 0x04       | ctrl+d |
+
 -----
 
 &nbsp;
