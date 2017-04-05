@@ -24,8 +24,14 @@ We remap these two keys with [Karabiner Elements](https://github.com/tekezo/Kara
 
 We basically remap (Karabiner Elements changes already in place!)
 
+ * [macOS Special Chars German](https://www.die-tastenkombination.de/tastenkombinationen-mac-os-sonderzeichen.html)
 
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/keyboard-maestro-remap.png" width="80%"></p>
 
+It is then exported as Macro Library.
+You can import the Macro Library:
+
+  * :sparkles: **[clouless-german-keyboard-remap-macros.kmlibrary](x)**
 -----
 
 &nbsp;
