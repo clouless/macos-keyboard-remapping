@@ -53,6 +53,17 @@ to enable ctrl+d and ctrl+c.
 
 &nbsp;
 
+
+**Limitations**
+
+ * Once Safari creates a "Secure Input Mode", Keyboard Maestro is disabled.
+   * Don't use safari
+ * Google Chrome dies not support mac keyboard Home and End keys
+
+-----
+
+&nbsp;
+
 ### License
 
 [MIT](./LICENSE) © [Bernhard Grünewaldt](https://github.com/clouless)
