@@ -8,9 +8,9 @@
 
 -----
 
-### Installation
+### Usage
 
-**Remap Left-Control and Right-Cmd with Karabiner Elements**
+#### :musical_keyboard: Remap single keys with Karabiner Elements
 
 We remap these keys with [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) under macOS Sierra.
 
@@ -21,15 +21,14 @@ We remap these keys with [Karabiner Elements](https://github.com/tekezo/Karabine
  * Remap `<` to `^`
  * Remap `^` to `<`
 
-**Remap Keys in Keyboard Maestro**
+&nbsp; 
+
+#### :musical_keyboard: Remap key combinations with Keyboard Maestro
 
 We basically remap the following with [Keyboard Maestro](https://www.keyboardmaestro.com/main/).
 
-:bangbang: Karabiner Elements remap already in place!
-
 <p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/keyboard-maestro-remap.png?v2" width="80%"></p>
 
-It is then exported as Macro Library.
 You can import the Macro Library:
 
   * :sparkles: **[clouless-german-keyboard-remap-macros.kmlibrary](https://raw.githubusercontent.com/clouless/macos-keyboard-remapping/master/clouless-german-keyboard-remap-macros.kmlibrary)**
@@ -37,11 +36,9 @@ You can import the Macro Library:
 
 *Notes: [macOS Special Chars German](https://www.die-tastenkombination.de/tastenkombinationen-mac-os-sonderzeichen.html)*
 
-Special Application Specific Macros like `ctrl+c` in IntelliJ IDEA terminal are done like so:
-
-https://github.com/clouless/macos-keyboard-remappingMacros
-
 &nbsp;
+
+### Application Customization
 
 **iTerm2**
 
@@ -53,15 +50,14 @@ to enable ctrl+d and ctrl+c.
 | ⌘+c        | 0x03       | ctrl+c |
 | ⌘+d        | 0x04       | ctrl+d |
 
------
-
 &nbsp;
 
 
-**Limitations**
+### Limitations
 
  * Once Safari creates a "Secure Input Mode", Keyboard Maestro is disabled.
    * Don't use safari
+ * IntelliJ embedded terminal CTRL+C not working  
 
 
 -----
