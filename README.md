@@ -59,6 +59,7 @@ to enable ctrl+d and ctrl+c.
  * Once Safari creates a "Secure Input Mode", Keyboard Maestro is disabled.
    * Don't use safari
  * Google Chrome dies not support mac keyboard Home and End keys
+ * IntelliJ built in terminal does not work with left-ctrl+c. Must use right-ctrl+c
 
 -----
 
