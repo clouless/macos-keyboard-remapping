@@ -1,4 +1,4 @@
-![](https://clouless.github.io/macos-keyboard-remapping/v2/keyboard-layout-map.png)
+![](https://clouless.github.io/macos-keyboard-remapping/v2/keyboard-layout-map.png?v2)
 
 
 > I use a german Windows Keyboard Layout mapped to Mac. Working under macOS Sierra.
@@ -14,7 +14,7 @@
 
 We remap these keys with [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) under macOS Sierra.
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-elements-remap.png?v2" width="80%"></p>
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-elements-remap.png?v3" width="80%"></p>
 
  * Remap left-ctrl to left-cmd
  * Remap right-cmd to right-alt
