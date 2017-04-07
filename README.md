@@ -4,6 +4,30 @@
 > I use a german PC Keyboard Layout mapped to Mac. Working under macOS Sierra.
 
 
+
+&nbsp;
+
+-----
+
+### Features
+
+
+|key-combo | result |
+|----------|--------|
+| left-ctrl+c | copy text to clipboard |
+| left-ctrl+x | cut text to clipboard |
+| left-ctrl+v | paste text from clipboard |
+| left-⌘+e    | opens Path Finder Application |
+| right-⌘+q   | `@` |
+| right-⌘+e   | `€` |
+| right-⌘+7   | `{` |
+| right-⌘+8   | `[` |
+| right-⌘+9   | `]` |
+| right-⌘+0   | `}` |
+| right-⌘+ß   | `\` |
+| right-⌘++   | `~` |
+| right-⌘+<   | `|` |
+
 &nbsp;
 
 -----
