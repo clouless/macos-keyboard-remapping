@@ -37,6 +37,10 @@ You can import the Macro Library:
 
 *Notes: [macOS Special Chars German](https://www.die-tastenkombination.de/tastenkombinationen-mac-os-sonderzeichen.html)*
 
+Special Application Specific Macros like `ctrl+c` in IntelliJ IDEA terminal are done like so:
+
+https://github.com/clouless/macos-keyboard-remappingMacros
+
 &nbsp;
 
 **iTerm2**
@@ -59,7 +63,8 @@ to enable ctrl+d and ctrl+c.
  * Once Safari creates a "Secure Input Mode", Keyboard Maestro is disabled.
    * Don't use safari
  * Google Chrome dies not support mac keyboard Home and End keys
- * IntelliJ built in terminal does not work with left-ctrl+c. Must use right-ctrl+c
+
+
 
 -----
 
