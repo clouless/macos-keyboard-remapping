@@ -1,7 +1,7 @@
 ![](https://clouless.github.io/macos-keyboard-remapping/v2/keyboard-layout-map.png?v2)
 
 
-> I use a german Windows Keyboard Layout mapped to Mac. Working under macOS Sierra.
+> I use a german PC Keyboard Layout mapped to Mac. Working under macOS Sierra.
 
 
 &nbsp;
