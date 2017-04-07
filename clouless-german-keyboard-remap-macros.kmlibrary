@@ -231,22 +231,60 @@
 					<key>Actions</key>
 					<array>
 						<dict>
-							<key>KeyCode</key>
-							<integer>123</integer>
+							<key>Conditions</key>
+							<dict>
+								<key>ConditionList</key>
+								<array>
+									<dict>
+										<key>ConditionType</key>
+										<string>Key</string>
+										<key>KeyCode</key>
+										<integer>115</integer>
+										<key>KeyConditionType</key>
+										<string>Down</string>
+									</dict>
+								</array>
+								<key>ConditionListMatch</key>
+								<string>All</string>
+							</dict>
+							<key>ElseActions</key>
+							<array>
+								<dict>
+									<key>KeyCode</key>
+									<integer>123</integer>
+									<key>MacroActionType</key>
+									<string>SimulateKeystroke</string>
+									<key>Modifiers</key>
+									<integer>2048</integer>
+									<key>ReleaseAll</key>
+									<false/>
+								</dict>
+							</array>
 							<key>MacroActionType</key>
-							<string>SimulateKeystroke</string>
-							<key>Modifiers</key>
-							<integer>2048</integer>
-							<key>ReleaseAll</key>
-							<false/>
+							<string>IfThenElse</string>
+							<key>ThenActions</key>
+							<array>
+								<dict>
+									<key>KeyCode</key>
+									<integer>123</integer>
+									<key>MacroActionType</key>
+									<string>SimulateKeystroke</string>
+									<key>Modifiers</key>
+									<integer>256</integer>
+									<key>ReleaseAll</key>
+									<false/>
+								</dict>
+							</array>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
 						</dict>
 					</array>
 					<key>CreationDate</key>
 					<real>513075383.37253797</real>
 					<key>ModificationDate</key>
-					<real>513270802.740282</real>
+					<real>513273311.25071102</real>
 					<key>Name</key>
-					<string>cursor-move: left-ctrl+arrow-left: jump word to left</string>
+					<string>cursor-move: left-ctrl+arrow-left: jump word to left AND home: cmd+arrow-left</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -258,6 +296,16 @@
 							<string>HotKey</string>
 							<key>Modifiers</key>
 							<integer>256</integer>
+						</dict>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>115</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>0</integer>
 						</dict>
 					</array>
 					<key>UID</key>
@@ -282,22 +330,60 @@
 					<key>Actions</key>
 					<array>
 						<dict>
-							<key>KeyCode</key>
-							<integer>124</integer>
+							<key>Conditions</key>
+							<dict>
+								<key>ConditionList</key>
+								<array>
+									<dict>
+										<key>ConditionType</key>
+										<string>Key</string>
+										<key>KeyCode</key>
+										<integer>119</integer>
+										<key>KeyConditionType</key>
+										<string>Down</string>
+									</dict>
+								</array>
+								<key>ConditionListMatch</key>
+								<string>All</string>
+							</dict>
+							<key>ElseActions</key>
+							<array>
+								<dict>
+									<key>KeyCode</key>
+									<integer>124</integer>
+									<key>MacroActionType</key>
+									<string>SimulateKeystroke</string>
+									<key>Modifiers</key>
+									<integer>2048</integer>
+									<key>ReleaseAll</key>
+									<false/>
+								</dict>
+							</array>
 							<key>MacroActionType</key>
-							<string>SimulateKeystroke</string>
-							<key>Modifiers</key>
-							<integer>2048</integer>
-							<key>ReleaseAll</key>
-							<false/>
+							<string>IfThenElse</string>
+							<key>ThenActions</key>
+							<array>
+								<dict>
+									<key>KeyCode</key>
+									<integer>124</integer>
+									<key>MacroActionType</key>
+									<string>SimulateKeystroke</string>
+									<key>Modifiers</key>
+									<integer>256</integer>
+									<key>ReleaseAll</key>
+									<false/>
+								</dict>
+							</array>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
 						</dict>
 					</array>
 					<key>CreationDate</key>
 					<real>513075017.802903</real>
 					<key>ModificationDate</key>
-					<real>513270813.89212602</real>
+					<real>513273386.18495899</real>
 					<key>Name</key>
-					<string>cursor-move: left-ctrl+arrow-right: jump word to right</string>
+					<string>cursor-move: left-ctrl+arrow-right: jump word to right AND end: cmd+arrow-right</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -309,6 +395,16 @@
 							<string>HotKey</string>
 							<key>Modifiers</key>
 							<integer>256</integer>
+						</dict>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>119</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>0</integer>
 						</dict>
 					</array>
 					<key>UID</key>
@@ -743,6 +839,6 @@
 		</dict>
 	</array>
 	<key>UID</key>
-	<string>C3C00FF2-3031-4276-AD6E-37E4C8E8BED0</string>
+	<string>AF1F1622-5DCA-4BDA-A03F-82E60ABA97F8</string>
 </dict>
 </plist>
