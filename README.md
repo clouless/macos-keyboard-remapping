@@ -4,9 +4,6 @@
 > I use a german Windows Keyboard Layout mapped to Mac. Working under macOS Sierra.
 
 
- * :monkey: **v2** with [Keyboard Maestro](https://www.keyboardmaestro.com/main/) and [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
- * :monkey: [v1 with custom Input Source](https://github.com/clouless/macos-keyboard-remapping/tree/v1-with-custom-input-source)
-
 &nbsp;
 
 -----
