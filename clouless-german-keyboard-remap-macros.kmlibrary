@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>clouless</string>
+	<string></string>
 	<key>AuthorURL</key>
-	<string>https://github.com/clouless/macos-keyboard-remapping</string>
+	<string></string>
 	<key>CanDragToMacroGroup</key>
 	<true/>
 	<key>Category1</key>
@@ -232,57 +232,6 @@
 					<array>
 						<dict>
 							<key>KeyCode</key>
-							<integer>126</integer>
-							<key>MacroActionType</key>
-							<string>SimulateKeystroke</string>
-							<key>Modifiers</key>
-							<integer>256</integer>
-							<key>ReleaseAll</key>
-							<false/>
-						</dict>
-					</array>
-					<key>CreationDate</key>
-					<real>513270866.25284803</real>
-					<key>ModificationDate</key>
-					<real>513270893.470779</real>
-					<key>Name</key>
-					<string>cursor-move: left-ctrl+arrow-down HOME</string>
-					<key>Triggers</key>
-					<array>
-						<dict>
-							<key>FireType</key>
-							<string>Pressed</string>
-							<key>KeyCode</key>
-							<integer>115</integer>
-							<key>MacroTriggerType</key>
-							<string>HotKey</string>
-							<key>Modifiers</key>
-							<integer>0</integer>
-						</dict>
-					</array>
-					<key>UID</key>
-					<string>79FCCF17-DA95-462B-86B0-FF598E731600</string>
-				</dict>
-			</array>
-			<key>Name</key>
-			<string>clouless-german-keyboard-remap</string>
-			<key>ToggleMacroUID</key>
-			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
-			<key>UID</key>
-			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
-		</dict>
-		<dict>
-			<key>Activate</key>
-			<string>Normal</string>
-			<key>CreationDate</key>
-			<real>513075011.774028</real>
-			<key>Macros</key>
-			<array>
-				<dict>
-					<key>Actions</key>
-					<array>
-						<dict>
-							<key>KeyCode</key>
 							<integer>123</integer>
 							<key>MacroActionType</key>
 							<string>SimulateKeystroke</string>
@@ -385,57 +334,6 @@
 					<array>
 						<dict>
 							<key>KeyCode</key>
-							<integer>125</integer>
-							<key>MacroActionType</key>
-							<string>SimulateKeystroke</string>
-							<key>Modifiers</key>
-							<integer>256</integer>
-							<key>ReleaseAll</key>
-							<false/>
-						</dict>
-					</array>
-					<key>CreationDate</key>
-					<real>513270781.73143798</real>
-					<key>ModificationDate</key>
-					<real>513270911.21389103</real>
-					<key>Name</key>
-					<string>cursor-move: left-ctrl+arrow-up END</string>
-					<key>Triggers</key>
-					<array>
-						<dict>
-							<key>FireType</key>
-							<string>Pressed</string>
-							<key>KeyCode</key>
-							<integer>119</integer>
-							<key>MacroTriggerType</key>
-							<string>HotKey</string>
-							<key>Modifiers</key>
-							<integer>0</integer>
-						</dict>
-					</array>
-					<key>UID</key>
-					<string>E3CFF9EB-C732-4782-8A0E-3AB8709DE8F4</string>
-				</dict>
-			</array>
-			<key>Name</key>
-			<string>clouless-german-keyboard-remap</string>
-			<key>ToggleMacroUID</key>
-			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
-			<key>UID</key>
-			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
-		</dict>
-		<dict>
-			<key>Activate</key>
-			<string>Normal</string>
-			<key>CreationDate</key>
-			<real>513075011.774028</real>
-			<key>Macros</key>
-			<array>
-				<dict>
-					<key>Actions</key>
-					<array>
-						<dict>
-							<key>KeyCode</key>
 							<integer>123</integer>
 							<key>MacroActionType</key>
 							<string>SimulateKeystroke</string>
@@ -517,6 +415,68 @@
 					</array>
 					<key>UID</key>
 					<string>A078B7CE-E06A-471E-949E-F918A6BFF2B7</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>AllWindows</key>
+							<true/>
+							<key>AlreadyActivatedActionType</key>
+							<string>Normal</string>
+							<key>Application</key>
+							<dict>
+								<key>BundleIdentifier</key>
+								<string>com.cocoatech.PathFinder</string>
+								<key>Name</key>
+								<string>Path Finder</string>
+								<key>NewFile</key>
+								<string>/Applications/Path Finder.app</string>
+							</dict>
+							<key>MacroActionType</key>
+							<string>ActivateApplication</string>
+							<key>ReopenWindows</key>
+							<true/>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>513076124.65193897</real>
+					<key>ModificationDate</key>
+					<real>513272123.045479</real>
+					<key>Name</key>
+					<string>HOTKEYS: left-cmd+e opens Path Finder</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>14</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>256</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>D3711A14-F153-4B48-A403-B069344C1FC2</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -783,6 +743,6 @@
 		</dict>
 	</array>
 	<key>UID</key>
-	<string>69F822B2-5611-4965-B4BD-0B9FCF6B42DA</string>
+	<string>C3C00FF2-3031-4276-AD6E-37E4C8E8BED0</string>
 </dict>
 </plist>
