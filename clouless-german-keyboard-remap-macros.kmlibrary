@@ -232,6 +232,57 @@
 					<array>
 						<dict>
 							<key>KeyCode</key>
+							<integer>126</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>256</integer>
+							<key>ReleaseAll</key>
+							<false/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>513270866.25284803</real>
+					<key>ModificationDate</key>
+					<real>513270893.470779</real>
+					<key>Name</key>
+					<string>cursor-move: left-ctrl+arrow-down HOME</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>115</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>0</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>79FCCF17-DA95-462B-86B0-FF598E731600</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
 							<integer>123</integer>
 							<key>MacroActionType</key>
 							<string>SimulateKeystroke</string>
@@ -244,9 +295,9 @@
 					<key>CreationDate</key>
 					<real>513075383.37253797</real>
 					<key>ModificationDate</key>
-					<real>513078465.440718</real>
+					<real>513270802.740282</real>
 					<key>Name</key>
-					<string>cursor-move: left-ctrl+arrow: jump word to left</string>
+					<string>cursor-move: left-ctrl+arrow-left: jump word to left</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -295,9 +346,9 @@
 					<key>CreationDate</key>
 					<real>513075017.802903</real>
 					<key>ModificationDate</key>
-					<real>513078473.401568</real>
+					<real>513270813.89212602</real>
 					<key>Name</key>
-					<string>cursor-move: left-ctrl+arrow: jump word to right</string>
+					<string>cursor-move: left-ctrl+arrow-right: jump word to right</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -334,36 +385,36 @@
 					<array>
 						<dict>
 							<key>KeyCode</key>
-							<integer>124</integer>
+							<integer>125</integer>
 							<key>MacroActionType</key>
 							<string>SimulateKeystroke</string>
 							<key>Modifiers</key>
-							<integer>2560</integer>
+							<integer>256</integer>
 							<key>ReleaseAll</key>
 							<false/>
 						</dict>
 					</array>
 					<key>CreationDate</key>
-					<real>513075452.65061098</real>
+					<real>513270781.73143798</real>
 					<key>ModificationDate</key>
-					<real>513078481.77729601</real>
+					<real>513270911.21389103</real>
 					<key>Name</key>
-					<string>cursor-move: left-ctrl+arrow: select text until next word</string>
+					<string>cursor-move: left-ctrl+arrow-up END</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
 							<key>FireType</key>
 							<string>Pressed</string>
 							<key>KeyCode</key>
-							<integer>124</integer>
+							<integer>119</integer>
 							<key>MacroTriggerType</key>
 							<string>HotKey</string>
 							<key>Modifiers</key>
-							<integer>768</integer>
+							<integer>0</integer>
 						</dict>
 					</array>
 					<key>UID</key>
-					<string>A078B7CE-E06A-471E-949E-F918A6BFF2B7</string>
+					<string>E3CFF9EB-C732-4782-8A0E-3AB8709DE8F4</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -397,9 +448,9 @@
 					<key>CreationDate</key>
 					<real>513075550.48074102</real>
 					<key>ModificationDate</key>
-					<real>513078486.28152698</real>
+					<real>513270843.54731101</real>
 					<key>Name</key>
-					<string>cursor-move: left-ctrl+arrow: select text until previous word</string>
+					<string>cursor-move: shift+left-ctrl+arrow-left: select text until previous word</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -415,6 +466,57 @@
 					</array>
 					<key>UID</key>
 					<string>F41A8430-93F6-4ED7-9F31-AC0180A77DC2</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
+							<integer>124</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>2560</integer>
+							<key>ReleaseAll</key>
+							<false/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>513075452.65061098</real>
+					<key>ModificationDate</key>
+					<real>513270832.739407</real>
+					<key>Name</key>
+					<string>cursor-move: shift+left-ctrl+arrow-right: select text until next word</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>124</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>768</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>A078B7CE-E06A-471E-949E-F918A6BFF2B7</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -681,6 +783,6 @@
 		</dict>
 	</array>
 	<key>UID</key>
-	<string>F3353A5E-25C7-4D33-8A38-32BB35DAEA3B</string>
+	<string>69F822B2-5611-4965-B4BD-0B9FCF6B42DA</string>
 </dict>
 </plist>
