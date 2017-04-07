@@ -60,7 +60,10 @@ You can import the Macro Library:
 
 *Notes: [macOS Special Chars German](https://www.die-tastenkombination.de/tastenkombinationen-mac-os-sonderzeichen.html)*
 
+
 &nbsp;
+
+-----
 
 ### Application Customization
 
@@ -74,8 +77,10 @@ to enable ctrl+d and ctrl+c.
 | ⌘+c        | 0x03       | ctrl+c |
 | ⌘+d        | 0x04       | ctrl+d |
 
+
 &nbsp;
 
+-----
 
 ### Limitations
 
