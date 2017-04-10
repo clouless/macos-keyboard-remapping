@@ -18,6 +18,7 @@
 | left-ctrl+x | cut text to clipboard |
 | left-ctrl+v | paste text from clipboard |
 | left-⌘+e    | opens Path Finder Application |
+| left-ctrl+shift+eject    | go to sleep mode |
 | right-⌘+q   | @ |
 | right-⌘+e   | € |
 | right-⌘+7   | { |
@@ -27,6 +28,7 @@
 | right-⌘+ß   | \ |
 | right-⌘++   | ~ |
 | right-⌘+<   | &#x01C0; |
+
 
 &nbsp;
 
