@@ -593,6 +593,75 @@
 					<key>Actions</key>
 					<array>
 						<dict>
+							<key>IsDisclosed</key>
+							<false/>
+							<key>MacroActionType</key>
+							<string>SystemAction</string>
+							<key>SystemAction</key>
+							<string>Sleep</string>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>513536839.74190003</real>
+					<key>ModificationDate</key>
+					<real>513536971.425318</real>
+					<key>Name</key>
+					<string>HOTKEYS: left-ctrl+shift+EJECT to standby</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>ElementCookie</key>
+							<integer>5</integer>
+							<key>ElementDeviceUsage</key>
+							<integer>1</integer>
+							<key>ElementDeviceUsagePage</key>
+							<integer>12</integer>
+							<key>ElementName</key>
+							<string>Apple Keyboard Eject</string>
+							<key>ElementProductID</key>
+							<integer>592</integer>
+							<key>ElementShortName</key>
+							<string>#184</string>
+							<key>ElementUsage</key>
+							<integer>184</integer>
+							<key>ElementUsagePage</key>
+							<integer>12</integer>
+							<key>ElementValue</key>
+							<integer>1</integer>
+							<key>ElementVendorID</key>
+							<integer>1452</integer>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>MacroTriggerType</key>
+							<string>HID</string>
+							<key>Modifiers</key>
+							<integer>768</integer>
+							<key>UseModifiers</key>
+							<true/>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>32515EC2-72BB-45E9-A247-0523AB126947</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
 							<key>KeyCode</key>
 							<integer>45</integer>
 							<key>MacroActionType</key>
@@ -839,6 +908,6 @@
 		</dict>
 	</array>
 	<key>UID</key>
-	<string>AF1F1622-5DCA-4BDA-A03F-82E60ABA97F8</string>
+	<string>10123269-3DE3-45FF-8529-E6E36D05FB9B</string>
 </dict>
 </plist>
