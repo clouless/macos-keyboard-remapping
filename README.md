@@ -82,6 +82,24 @@ to enable ctrl+d and ctrl+c.
 
 &nbsp;
 
+**IntelliJ IDEA**
+
+Add a shortcut ⌘+SPACE for code completition.
+
+
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/intellij-complete-basic.png?v3" width="80%"></p>
+
+&nbsp;
+
+**Spotlight**
+
+Deactivate alle Spotlight shortcuts, since we use Alfred anyway.
+
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/spotlight-deactivate.png?v3" width="80%"></p>
+
+
+&nbsp;
+
 -----
 
 ### Limitations
