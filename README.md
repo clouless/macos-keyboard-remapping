@@ -40,14 +40,21 @@
 
 We remap these keys with [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) under macOS Sierra.
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-elements-remap.png?v3" width="80%"></p>
+Since `All Devices` does not seem to apply for internal Keyboard, we need to set
+things explicitly for the internal Keyboard.
+
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-all-devices.png?v3" width="80%"></p>
+
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-internal-keyboard.png?v3" width="80%"></p>
+
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-extern-usb.png?v3" width="80%"></p>
 
  * Remap left-ctrl to left-cmd
  * Remap right-cmd to right-alt
  * Remap `<` to `^`
  * Remap `^` to `<`
 
-&nbsp; 
+&nbsp;
 
 #### :musical_keyboard: Remap key combinations with Keyboard Maestro
 
