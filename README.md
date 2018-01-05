@@ -47,7 +47,7 @@ things explicitly for the internal Keyboard.
 
 <p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-internal-keyboard.png?v3" width="80%"></p>
 
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-extern-usb.png?v3" width="80%"></p>
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-extern-usb.png?v4" width="80%"></p>
 
  * Remap left-ctrl to left-cmd
  * Remap right-cmd to right-alt
