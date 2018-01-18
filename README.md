@@ -49,6 +49,10 @@ things explicitly for the internal Keyboard.
 
 <p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-extern-usb.png?v4" width="80%"></p>
 
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-disable-for-control-strip.png" width="80%"></p>
+
+
+
  * Remap left-ctrl to left-cmd
  * Remap right-cmd to right-alt
  * Remap `<` to `^`
