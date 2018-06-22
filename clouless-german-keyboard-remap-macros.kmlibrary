@@ -35,6 +35,10 @@
 							<integer>2048</integer>
 							<key>ReleaseAll</key>
 							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
 						</dict>
 					</array>
 					<key>CreationDate</key>
@@ -86,6 +90,10 @@
 							<integer>2048</integer>
 							<key>ReleaseAll</key>
 							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
 						</dict>
 					</array>
 					<key>CreationDate</key>
@@ -137,6 +145,10 @@
 							<integer>2048</integer>
 							<key>ReleaseAll</key>
 							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
 						</dict>
 					</array>
 					<key>CreationDate</key>
@@ -188,6 +200,10 @@
 							<integer>2048</integer>
 							<key>ReleaseAll</key>
 							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
 						</dict>
 					</array>
 					<key>CreationDate</key>
@@ -211,6 +227,324 @@
 					</array>
 					<key>UID</key>
 					<string>01536141-8EDF-4657-961D-E696E8A06D8B</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
+							<integer>45</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>256</integer>
+							<key>ReleaseAll</key>
+							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>551363667.77822995</real>
+					<key>ModificationDate</key>
+					<real>551363706.56070995</real>
+					<key>Name</key>
+					<string>Browser strg+n</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>45</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>4096</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>C563E317-AA2C-444D-AAEA-99A429AD1536</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
+							<integer>17</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>256</integer>
+							<key>ReleaseAll</key>
+							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>551363667.77822995</real>
+					<key>ModificationDate</key>
+					<real>551363685.91254401</real>
+					<key>Name</key>
+					<string>Browser strg+t</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>17</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>4096</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>785C9A07-1B93-47DC-9951-B99E4EDD6F0B</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
+							<integer>13</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>256</integer>
+							<key>ReleaseAll</key>
+							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>551363667.77822995</real>
+					<key>ModificationDate</key>
+					<real>551363726.29655302</real>
+					<key>Name</key>
+					<string>Browser strg+w</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>13</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>4096</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>64170CB7-E5FF-458F-89D4-4CD66C8F3CBE</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>Copy</string>
+							<key>IsDisclosed</key>
+							<false/>
+							<key>MacroActionType</key>
+							<string>CutCopyPaste</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>551363371.01270199</real>
+					<key>ModificationDate</key>
+					<real>551363415.77151</real>
+					<key>Name</key>
+					<string>CopyPaste - Copy</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>8</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>4096</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>A0569DA8-075D-46D7-8CE0-1A35D60809E6</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>Cut</string>
+							<key>IsDisclosed</key>
+							<false/>
+							<key>MacroActionType</key>
+							<string>CutCopyPaste</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>551363441.00404096</real>
+					<key>ModificationDate</key>
+					<real>551363458.069332</real>
+					<key>Name</key>
+					<string>CopyPaste - Cut</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>7</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>4096</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>503E86C6-89F9-4088-B808-0B595032A98C</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>Paste</string>
+							<key>IsDisclosed</key>
+							<false/>
+							<key>MacroActionType</key>
+							<string>CutCopyPaste</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>551363410.434075</real>
+					<key>ModificationDate</key>
+					<real>551363436.612409</real>
+					<key>Name</key>
+					<string>CopyPaste - Paste</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>9</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>4096</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>86950716-FD7F-434A-BEA1-5F9E7FD97B85</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -258,6 +592,10 @@
 									<integer>2048</integer>
 									<key>ReleaseAll</key>
 									<false/>
+									<key>TargetApplication</key>
+									<dict/>
+									<key>TargetingType</key>
+									<string>Front</string>
 								</dict>
 							</array>
 							<key>MacroActionType</key>
@@ -273,6 +611,10 @@
 									<integer>256</integer>
 									<key>ReleaseAll</key>
 									<false/>
+									<key>TargetApplication</key>
+									<dict/>
+									<key>TargetingType</key>
+									<string>Front</string>
 								</dict>
 							</array>
 							<key>TimeOutAbortsMacro</key>
@@ -357,6 +699,10 @@
 									<integer>2048</integer>
 									<key>ReleaseAll</key>
 									<false/>
+									<key>TargetApplication</key>
+									<dict/>
+									<key>TargetingType</key>
+									<string>Front</string>
 								</dict>
 							</array>
 							<key>MacroActionType</key>
@@ -372,6 +718,10 @@
 									<integer>256</integer>
 									<key>ReleaseAll</key>
 									<false/>
+									<key>TargetApplication</key>
+									<dict/>
+									<key>TargetingType</key>
+									<string>Front</string>
 								</dict>
 							</array>
 							<key>TimeOutAbortsMacro</key>
@@ -437,6 +787,10 @@
 							<integer>2560</integer>
 							<key>ReleaseAll</key>
 							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
 						</dict>
 					</array>
 					<key>CreationDate</key>
@@ -488,6 +842,10 @@
 							<integer>2560</integer>
 							<key>ReleaseAll</key>
 							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
 						</dict>
 					</array>
 					<key>CreationDate</key>
@@ -598,13 +956,13 @@
 							<key>MacroActionType</key>
 							<string>SystemAction</string>
 							<key>SystemAction</key>
-							<string>Sleep</string>
+							<string>ActivateScreenSaver</string>
 						</dict>
 					</array>
 					<key>CreationDate</key>
 					<real>513536839.74190003</real>
 					<key>ModificationDate</key>
-					<real>513536971.425318</real>
+					<real>528977212.53734499</real>
 					<key>Name</key>
 					<string>HOTKEYS: left-ctrl+shift+EJECT to standby</string>
 					<key>Triggers</key>
@@ -663,6 +1021,116 @@
 					<array>
 						<dict>
 							<key>KeyCode</key>
+							<integer>3</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>256</integer>
+							<key>ReleaseAll</key>
+							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>551363534.86949301</real>
+					<key>ModificationDate</key>
+					<real>551363554.64082301</real>
+					<key>Name</key>
+					<string>Search</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>3</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>4096</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>763495B7-6451-47B9-95F7-98CEB0A0F24D</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
+							<integer>0</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>256</integer>
+							<key>ReleaseAll</key>
+							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>551363473.179708</real>
+					<key>ModificationDate</key>
+					<real>551363523.81629896</real>
+					<key>Name</key>
+					<string>Select All</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>0</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>4096</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>FDA25785-EE1A-4875-ABB1-20A73DD3EA04</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
 							<integer>45</integer>
 							<key>MacroActionType</key>
 							<string>SimulateKeystroke</string>
@@ -670,6 +1138,10 @@
 							<integer>2048</integer>
 							<key>ReleaseAll</key>
 							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
 						</dict>
 					</array>
 					<key>CreationDate</key>
@@ -721,6 +1193,10 @@
 							<integer>2048</integer>
 							<key>ReleaseAll</key>
 							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
 						</dict>
 					</array>
 					<key>CreationDate</key>
@@ -772,6 +1248,10 @@
 							<integer>2048</integer>
 							<key>ReleaseAll</key>
 							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
 						</dict>
 					</array>
 					<key>CreationDate</key>
@@ -823,6 +1303,10 @@
 							<integer>2048</integer>
 							<key>ReleaseAll</key>
 							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
 						</dict>
 					</array>
 					<key>CreationDate</key>
@@ -874,6 +1358,10 @@
 							<integer>2560</integer>
 							<key>ReleaseAll</key>
 							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
 						</dict>
 					</array>
 					<key>CreationDate</key>
@@ -906,8 +1394,173 @@
 			<key>UID</key>
 			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
 		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
+							<integer>44</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>256</integer>
+							<key>ReleaseAll</key>
+							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>551363606.20960295</real>
+					<key>ModificationDate</key>
+					<real>551363635.17636395</real>
+					<key>Name</key>
+					<string>Zoom - strg-</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>44</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>4096</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>C85BB297-B79C-45FF-BEE8-DFA3ECF0E2CD</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
+							<integer>30</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>256</integer>
+							<key>ReleaseAll</key>
+							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>551363606.20960295</real>
+					<key>ModificationDate</key>
+					<real>551363621.336362</real>
+					<key>Name</key>
+					<string>Zoom - strg+</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>30</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>4096</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>246F47A3-53C7-4B19-8C62-34781F81EA5B</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>513075011.774028</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>KeyCode</key>
+							<integer>29</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>256</integer>
+							<key>ReleaseAll</key>
+							<false/>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>551363606.20960295</real>
+					<key>ModificationDate</key>
+					<real>551363653.40123105</real>
+					<key>Name</key>
+					<string>Zoom - strg0</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>29</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>4096</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>B62A33E3-58E9-4EE1-B344-8B793D8C0109</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>clouless-german-keyboard-remap</string>
+			<key>ToggleMacroUID</key>
+			<string>5139A8D7-E26C-48DA-AC6F-AA094DBC76DC</string>
+			<key>UID</key>
+			<string>8D51C77B-409C-451A-BF23-B3210E5D05D4</string>
+		</dict>
 	</array>
 	<key>UID</key>
-	<string>10123269-3DE3-45FF-8529-E6E36D05FB9B</string>
+	<string>D072F493-D4FF-4F12-A7AB-BE6BD6F51877</string>
 </dict>
 </plist>
