@@ -17,6 +17,10 @@
 | left-ctrl+c | copy text to clipboard |
 | left-ctrl+x | cut text to clipboard |
 | left-ctrl+v | paste text from clipboard |
+| left-ctrl+shift+right | marks text one word to right |
+| left-ctrl+shift+left | marks text one word to left |
+| left-ctrl+a | select all |
+| left-ctrl+s | save |
 | left-⌘+e    | opens Path Finder Application |
 | left-ctrl+shift+eject    | go to sleep mode |
 | right-⌘+q   | @ |
@@ -36,29 +40,6 @@
 
 ### Usage
 
-#### :musical_keyboard: Remap single keys with Karabiner Elements
-
-We remap these keys with [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) under macOS Sierra.
-
-Since `All Devices` does not seem to apply for internal Keyboard, we need to set
-things explicitly for the internal Keyboard.
-
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-all-devices.png?v3" width="80%"></p>
-
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-internal-keyboard.png?v3" width="80%"></p>
-
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-extern-usb.png?v4" width="80%"></p>
-
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/karabiner-disable-for-control-strip.png" width="80%"></p>
-
-
-
- * Remap left-ctrl to left-cmd
- * Remap right-cmd to right-alt
- * Remap `<` to `^`
- * Remap `^` to `<`
-
-&nbsp;
 
 #### :musical_keyboard: Remap key combinations with Keyboard Maestro
 
@@ -78,47 +59,10 @@ You can import the Macro Library:
 
 -----
 
-### Application Customization
-
-**iTerm2**
-
-Under 'Profiles' → 'Keys' add some key-combo 'send hex' remappings
-to enable ctrl+d and ctrl+c.
-
-| key combo | send hex | remapped to |
-|------------|------------|--------|
-| ⌘+c        | 0x03       | ctrl+c |
-| ⌘+d        | 0x04       | ctrl+d |
-
-
-&nbsp;
-
-**IntelliJ IDEA**
-
-Add a shortcut ⌘+SPACE for code completition.
-
-
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/intellij-complete-basic.png?v3" width="80%"></p>
-
-&nbsp;
-
-**Spotlight**
-
-Deactivate alle Spotlight shortcuts, since we use Alfred anyway.
-
-<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/spotlight-deactivate.png?v3" width="80%"></p>
-
-
-&nbsp;
-
------
-
 ### Limitations
 
  * Once Safari creates a "Secure Input Mode", Keyboard Maestro is disabled.
    * Don't use safari
- * IntelliJ embedded terminal CTRL+C not working  
-
 
 -----
 
