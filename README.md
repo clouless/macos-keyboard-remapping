@@ -66,7 +66,7 @@ You can import the Macro Library:
  * To paste passwords into password input fileds you cannot use CTRL+V and need to use CMD+V
  * Mission Control default Shortcuts need to be disabled to avoid conflicts:
 
-<p align="center"><img src="doc/v2/deactivate-mission-control-shortcuts.png" width="80%"></p>
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/deactivate-mission-control-shortcuts.png" width="80%"></p>
 
 -----
 
