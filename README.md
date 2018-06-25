@@ -68,6 +68,9 @@ You can import the Macro Library:
 
 <p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/deactivate-mission-control-shortcuts.png" width="80%"></p>
 
+* CTRL+C is disabled to copy text in Iterm2:
+
+<p align="center"><img src="https://clouless.github.io/macos-keyboard-remapping/v2/copy-paste.png" width="80%"></p>
 -----
 
 &nbsp;
