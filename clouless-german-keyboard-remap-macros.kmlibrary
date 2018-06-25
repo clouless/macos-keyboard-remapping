@@ -467,12 +467,61 @@
 					<key>Actions</key>
 					<array>
 						<dict>
-							<key>Action</key>
-							<string>Copy</string>
-							<key>IsDisclosed</key>
-							<false/>
+							<key>Conditions</key>
+							<dict>
+								<key>ConditionList</key>
+								<array>
+									<dict>
+										<key>Application</key>
+										<dict>
+											<key>BundleIdentifier</key>
+											<string>com.googlecode.iterm2</string>
+											<key>Name</key>
+											<string>iTerm</string>
+											<key>NewFile</key>
+											<string>/Applications/iTerm.app</string>
+										</dict>
+										<key>ApplicationConditionType</key>
+										<string>Active</string>
+										<key>ConditionType</key>
+										<string>Application</string>
+									</dict>
+								</array>
+								<key>ConditionListMatch</key>
+								<string>All</string>
+							</dict>
+							<key>ElseActions</key>
+							<array>
+								<dict>
+									<key>Action</key>
+									<string>Copy</string>
+									<key>IsDisclosed</key>
+									<false/>
+									<key>MacroActionType</key>
+									<string>CutCopyPaste</string>
+									<key>TimeOutAbortsMacro</key>
+									<true/>
+								</dict>
+							</array>
 							<key>MacroActionType</key>
-							<string>CutCopyPaste</string>
+							<string>IfThenElse</string>
+							<key>ThenActions</key>
+							<array>
+								<dict>
+									<key>KeyCode</key>
+									<integer>8</integer>
+									<key>MacroActionType</key>
+									<string>SimulateKeystroke</string>
+									<key>Modifiers</key>
+									<integer>4096</integer>
+									<key>ReleaseAll</key>
+									<false/>
+									<key>TargetApplication</key>
+									<dict/>
+									<key>TargetingType</key>
+									<string>Front</string>
+								</dict>
+							</array>
 							<key>TimeOutAbortsMacro</key>
 							<true/>
 						</dict>
@@ -480,7 +529,7 @@
 					<key>CreationDate</key>
 					<real>551363371.01270199</real>
 					<key>ModificationDate</key>
-					<real>551363415.77151</real>
+					<real>551630634.927163</real>
 					<key>Name</key>
 					<string>CopyPaste - Copy</string>
 					<key>Triggers</key>
@@ -1947,8 +1996,6 @@
 							<string>SimulateKeystroke</string>
 							<key>Modifiers</key>
 							<integer>2048</integer>
-							<key>Press</key>
-							<string>PressAndHold</string>
 							<key>ReleaseAll</key>
 							<false/>
 							<key>TargetApplication</key>
@@ -1960,7 +2007,7 @@
 					<key>CreationDate</key>
 					<real>551363606.20960295</real>
 					<key>ModificationDate</key>
-					<real>551372089.37649202</real>
+					<real>551603880.03697002</real>
 					<key>Name</key>
 					<string>Text - strg+left</string>
 					<key>Triggers</key>
@@ -2004,8 +2051,6 @@
 							<string>SimulateKeystroke</string>
 							<key>Modifiers</key>
 							<integer>2048</integer>
-							<key>Press</key>
-							<string>PressAndHold</string>
 							<key>ReleaseAll</key>
 							<false/>
 							<key>TargetApplication</key>
@@ -2017,7 +2062,7 @@
 					<key>CreationDate</key>
 					<real>551363606.20960295</real>
 					<key>ModificationDate</key>
-					<real>551372102.95263195</real>
+					<real>551603895.95068204</real>
 					<key>Name</key>
 					<string>Text - strg+right</string>
 					<key>Triggers</key>
@@ -2217,6 +2262,6 @@
 		</dict>
 	</array>
 	<key>UID</key>
-	<string>9401BE54-D2B2-42A5-AEE6-A94A716CD5D5</string>
+	<string>B9B5F4EC-19FC-4814-A8FD-01FEE8932DBA</string>
 </dict>
 </plist>
