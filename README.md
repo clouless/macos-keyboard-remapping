@@ -40,6 +40,7 @@
 
 ### Usage
 
+We do not need *Karabiner* or *Karabiner Elements* anymore! **Keyboard Maestro does all the work** :fire:
 
 #### :musical_keyboard: Remap key combinations with Keyboard Maestro
 
@@ -62,7 +63,10 @@ You can import the Macro Library:
 ### Limitations
 
  * Once Safari creates a "Secure Input Mode", Keyboard Maestro is disabled.
-   * Don't use safari
+ * To paste passwords into password input fileds you cannot use CTRL+V and need to use CMD+V
+ * Mission Control default Shortcuts need to be disabled to avoid conflicts:
+
+<p align="center"><img src="doc/v2/deactivate-mission-control-shortcuts.png" width="80%"></p>
 
 -----
 
