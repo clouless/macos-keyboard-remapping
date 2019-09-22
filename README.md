@@ -32,6 +32,9 @@
 | right-⌘+ß   | \ |
 | right-⌘++   | ~ |
 | right-⌘+<   | &#x01C0; |
+| ⌘+x    | Finder: does a ⌘+c but remembers the wish to "cut a file" |
+| ⌘+v    | Finder: does a ⌘+v an (a) pastes as cut if action preceeded by ⌘+x XOR (b) pastes as copy if not |
+
 
 
 &nbsp;
