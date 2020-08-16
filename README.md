@@ -58,6 +58,11 @@ You can import the Macro Library:
 
 *Notes: [macOS Special Chars German](https://www.die-tastenkombination.de/tastenkombinationen-mac-os-sonderzeichen.html)*
 
+Disable Keybord Maestro Clipboard History
+
+```
+defaults write com.stairways.keyboardmaestro.engine MaxClipboardHistory -int 0
+```
 
 &nbsp;
 
